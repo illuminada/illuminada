@@ -1,6 +1,5 @@
 ### Entry in to Illuminada is by invite only
 
-<!--
 The Illuminada is a collaborative syndicate of anonymous members who have dedicated substantial time and effort in to the betterment of the Cardano Community.  Due to its anonymous nature, there is no public recognition.  Membership only serves to identify you to other members, provides voter rights for significant Cardano Developmental activity, nominate new members, and put forward new ideas.
 
 Membership is strictly limited to 1000 individuals.  Most of whom have yet to be identified and onboarded.  Current member count will be updated on our github from time to time.
