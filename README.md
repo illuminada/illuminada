@@ -21,3 +21,5 @@ Or
 DO NOT SEND MORE THAN ONE EMAIL.  If you do not hear back, then you have not been accepted in at this time.  If you would like to be considered in the future, you must wait at least 90 days before putting in another submission.  You would need to have done something in that would make you eligible.  The desire for entry is not a qualifying reason.
 
 If you are granted entry in to Illuminada, you will be required to pay the 1000 ada membership fee, and will be expected to participate in Illuminada business.  Failure to participate multiple times will be grounds for revocation of membership, and destruction of membership token.
+
+Official Policy ID for member tokens: 1fc057d154de383819a6eed0840868c7423aeadf33453e6bd506512f
